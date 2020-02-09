@@ -1,1 +1,7 @@
 Flask<1
+flask-wtf
+wtfforms
+pandas
+DemoFormProject
+matplotlib
+requests
